@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lenovo
+Build-Jdk: 11.0.15.1
+Implementation-Title: springboottest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.sunilos
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboottest
+Created-By: Maven Integration for Eclipse
+
